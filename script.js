@@ -52,5 +52,5 @@ function generate(user_input) {
 }
 
 generate({
-  value: "https://github.com/DimzDeveloper"
+  value: "https://github.com/DzarelDeveloper"
 });
